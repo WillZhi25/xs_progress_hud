@@ -1,8 +1,8 @@
 name: xs_progress_hud
-description: A new Flutter plugin.
-version: 0.0.1
-author:
-homepage:
+description: this a progress hud.it can show hud in your app.
+version: 1.0.1
+author: Will
+homepage: https://github.com/zhiwupei/xs_progress_hud/
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
