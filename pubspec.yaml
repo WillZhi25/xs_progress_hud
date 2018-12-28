@@ -1,7 +1,7 @@
 name: xs_progress_hud
 description: this a progress hud.it can show hud in your app.
 version: 1.0.1
-author: Will
+author: Will <zhiwupei@gmail.com>
 homepage: https://github.com/zhiwupei/xs_progress_hud/
 
 environment:
